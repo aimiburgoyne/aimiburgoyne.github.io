@@ -1,0 +1,52 @@
+body {
+    background-color: #E3EAF2; /* bgc#E3EAF2 */
+    color: #84807c; /* c#969696 */
+    font-family: v; /* ff:v */
+}
+header {
+    background-color: #9CBFC1; /* bgc#9CBFC1 */
+    color: #556945; /* c#b06a6c */
+    background-image: url(images/lilyheader.jpg); /* bgi */
+    background-position: right; /* bgdp */
+    background-repeat: no-repeat; /* bgr */
+    line-height: 400%; /* lh400% */
+    text-indent: 1em; /* txi */
+}
+nav {
+    background-color: #CEDEEB; /* bgc#CEDEEB */
+    text-align: center; /* txa */
+    font-weight: bold; /* fwb */
+    line-height: 200%; /* lh200% */
+}
+nav a {
+    text-decoration: none; /* tdn */
+}
+h1 {
+    margin-bottom: 0; /* mb0 */
+    line-height: 400%; /* lh400% */
+    text-indent: 1em; /* ti1em :/
+}
+h2 {
+    color: #556945; /* c#7BB089 */
+}
+dt {
+    color: #854C39; /* c#b06a6c */
+}
+footer {
+    font-style: italic; /* fsi */
+    font-size: 75%; /* fz75% */
+}
+li, dd {
+    font-size: 90%; /*fz90% */
+}
+dt {
+    font-weight: bold; /* fwb */
+}
+#navi {
+    padding: 8px; /* p8 */
+    display: inline; /* dii */
+}
+.studio {
+    color: #854C39; /* c#b06a6c */
+    font-weight: bold;
+}

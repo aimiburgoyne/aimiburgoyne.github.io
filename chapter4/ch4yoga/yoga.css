@@ -1,0 +1,24 @@
+body {
+    background-color: #f2e4de; /* bgc#e6ffec */
+    color: #84807c; /* c#969696 */
+}
+header {
+    background-color: #FFE5E6; /* bgcFFE5E6 */
+    color: #556945; /* c#b06a6c */
+}
+nav {
+    background-color: #bdcac5; /* bgc#B06A6C */
+}
+h1 {
+    margin-bottom: 0; /* mb0 */
+}
+h2 {
+    color: #556945; /* c#7BB089 */
+}
+dt {
+    color: #854C39; /* c#b06a6c */
+}
+.studio {
+    color: #854C39; /* c#b06a6c */
+    font-weight: bold;
+}

@@ -42,7 +42,7 @@ li, dd {
 dt {
     font-weight: bold; /* fwb */
 }
-#navi {
+.navi {
     padding: 8px; /* p8 */
     display: inline; /* dii */
 }

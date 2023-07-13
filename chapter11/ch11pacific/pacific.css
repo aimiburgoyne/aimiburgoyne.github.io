@@ -141,7 +141,7 @@ form {
     display: flex;
     flex-flow: column nowrap;
 }
-input, 
+input,
 textarea {
     margin-bottom: 0.5em; /* mb.5em */
 }
@@ -157,6 +157,12 @@ video {
     box-shadow: 10px 10px 10px #777;
     text-align: center;
     width: 100%;
+}
+figcaption {
+    color: #1032cc;
+    text-align: center;
+    opacity: 80%;
+    margin-top: 0.5em;
 }
 @media (max-width: 600px) {
     header {

@@ -116,6 +116,12 @@ footer {
     background-size: 100% 100%; /* bgz100%100% */
     height: 300px; /* h300 */
 }
+#abouthero {
+    background-image: url(images/about.jpg); /*bgi*/
+    background-repeat: no-repeat; /* bgr */
+    background-size: 100% 100%; /* bgz100%100% */
+    height: 300px; /* h300 */
+}
 #special table {
     border-bottom: 1px solid #1976d2; /* bdb */
     border-collapse: separate; /* bdcl */
@@ -170,7 +176,8 @@ figcaption {
     }
     #yurthero, 
     #trailhero, 
-    #homehero {
+    #homehero
+    #abouthero {
         background-size: auto; /* bgsa */
     }
     #special table {

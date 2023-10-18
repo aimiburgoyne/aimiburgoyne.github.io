@@ -1,0 +1,35 @@
+h1 {
+    color: brown;
+    text-align: center;
+    text-shadow: 1px 1px 1px #000;
+}
+h2 {
+    color: coral;
+    text-align: left;
+    text-shadow: 1px 1px 1px #000;
+}
+body{
+    background: cornsilk;
+    color: gray;
+}
+img {
+    border-radius: 10%;
+}
+#menu {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    background-color: #f1f1f1;
+}
+.block a {
+    display: block;
+    color: gray;
+    padding: 8px 16px;
+    text-decoration: none;
+    background-color: bisque;
+}
+.block a:hover {
+    background-color: burlywood;
+    color: white;
+}

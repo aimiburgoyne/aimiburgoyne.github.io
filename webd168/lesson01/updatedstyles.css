@@ -1,3 +1,12 @@
+img {
+  opacity: 0.5;
+  transition: 1s;
+}
+
+img:hover {
+  opacity: 1;
+}
+
 body,
 html {
   height: 100%;

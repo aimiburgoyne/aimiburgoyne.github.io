@@ -1,0 +1,22 @@
+$colors: (
+  primary: #ffc800,
+  primary-dark: darken(#ffc800, 10%),
+  accent: darken(#ffc800, 20%),
+);
+
+@function color($color-name) {
+  @return map-get($colors, $color-name);
+}
+.title {
+  color: color(primary-dark);
+}
+section {
+  h2 {
+    color: color(primary-dark);
+  }
+  h3,
+  h4,
+  .portfolio-caption-heading {
+    color: color(accent);
+  }
+}
